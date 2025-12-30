@@ -1,0 +1,45 @@
+--- base eps=None rm_r=None ---
+Traceback (most recent call last):
+  File "c:\Users\Han\Desktop\graph\convert_image.py", line 772, in <module>
+    main()
+  File "c:\Users\Han\Desktop\graph\convert_image.py", line 600, in main
+    raise RuntimeError('윤곽선을 찾을 수 없습니다.')
+RuntimeError: 윤곽선을 찾을 수 없습니다.
+
+
+--- force eps=0.005 rm_r=None ---
+Traceback (most recent call last):
+  File "c:\Users\Han\Desktop\graph\convert_image.py", line 772, in <module>
+    main()
+  File "c:\Users\Han\Desktop\graph\convert_image.py", line 600, in main
+    raise RuntimeError('윤곽선을 찾을 수 없습니다.')
+RuntimeError: 윤곽선을 찾을 수 없습니다.
+
+
+--- force eps=0.01 rm_r=None ---
+Traceback (most recent call last):
+  File "c:\Users\Han\Desktop\graph\convert_image.py", line 772, in <module>
+    main()
+  File "c:\Users\Han\Desktop\graph\convert_image.py", line 600, in main
+    raise RuntimeError('윤곽선을 찾을 수 없습니다.')
+RuntimeError: 윤곽선을 찾을 수 없습니다.
+
+
+--- force eps=0.02 rm_r=None ---
+Traceback (most recent call last):
+  File "c:\Users\Han\Desktop\graph\convert_image.py", line 772, in <module>
+    main()
+  File "c:\Users\Han\Desktop\graph\convert_image.py", line 600, in main
+    raise RuntimeError('윤곽선을 찾을 수 없습니다.')
+RuntimeError: 윤곽선을 찾을 수 없습니다.
+
+
+--- force eps=0.04 rm_r=None ---
+Traceback (most recent call last):
+  File "c:\Users\Han\Desktop\graph\convert_image.py", line 772, in <module>
+    main()
+  File "c:\Users\Han\Desktop\graph\convert_image.py", line 600, in main
+    raise RuntimeError('윤곽선을 찾을 수 없습니다.')
+RuntimeError: 윤곽선을 찾을 수 없습니다.
+
+
